@@ -1,5 +1,9 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 
+## Link to Deployed APP
+
+[click here](https://jate-pwa-app-2f49ec7fe48f.herokuapp.com/)
+
 ## User Story
 
 ```md
@@ -37,3 +41,7 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+## Installed PWA
+![Installed PWA](./client/src/images/Screenshot%202024-01-19%20095836.png)
+
+![icon](./client/src/images/icons.png)
